@@ -21,6 +21,6 @@ using namespace std;
  */
 int main()
 {
-    cout << "testing" << endl;
+    cout << "Welcome to Warehouse Inventory Management" << endl;
 }
 
