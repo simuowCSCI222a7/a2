@@ -11,6 +11,7 @@
  * Created on February 12, 2018, 12:22 PM
  */
 
+#include <iostream>
 #include <cstdlib>
 
 using namespace std;
@@ -18,8 +19,8 @@ using namespace std;
 /*
  * 
  */
-int main(int argc, char** argv) {
-
-    return 0;
+int main()
+{
+    cout << "testing" << endl;
 }
 
